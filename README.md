@@ -16,5 +16,7 @@ The dataset used for this project is the [GTSRB (German Traffic Sign Recognition
 While our current model performs well, there are several avenues for improvement:
 
 **Data Augmentation:** Implement additional data augmentation techniques to increase model robustness.
+
 **Model Ensembling:** Combine multiple models to improve overall performance.
+
 **Real-world Testing:** Evaluate the model on real-world images and video streams.
